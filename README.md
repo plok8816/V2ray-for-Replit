@@ -1,8 +1,3 @@
-# V2ray for Replit
-Create By xiaowansm<br>
-Modlfy By ifeng<br>
-Web Site: https://www.hicairo.com <br>
-Telegram: https://t.me/HiaiFeng <br>
 
 # 简介：
 本项目用于在 Replit.com 免费服务上部署 V2ray ，采用的方案为 Nginx + WebSocket + VMess/VLess + TLS。
@@ -35,5 +30,3 @@ https://replit.com/@hifeng/v2rayN?v=1
 while true ;do curl https://xx.xx.repl.co; sleep 300; done;
 </code></pre>
 
-# 反馈与交流：
-在使用过程中，如果遇到问题，请使用Telegram与我联系。（ https://t.me/HiaiFeng ）
